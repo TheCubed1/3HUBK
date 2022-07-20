@@ -1,4 +1,3 @@
-wait(2.5)
   if game.PlaceId == 277751860 then --EpicMinigames
   loadstring(game:HttpGet("https://raw.githubusercontent.com/SlamminPig/rblxgames/main/Epic%20Minigames/EpicMinigamesGUI"))()
   elseif game.PlaceId == 6468323505 then --Spellbound
